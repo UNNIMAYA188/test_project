@@ -22,7 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
-         welcome to the world of react 
+         welcome to the world of react and the mern stack
         </p>
       </div>
       <p className="read-the-docs">
